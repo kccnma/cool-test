@@ -12,7 +12,9 @@ body {
 
 .full {
   height: 100vh;
-  background: red;
+  background: rebeccapurple;
+  display: grid;
+  place-items: center;
 }
 
 #parallax {

@@ -1,4 +1,4 @@
-$background: red;
+$background: rebeccapurple;
 
 html{
     box-sizing: border-box;
@@ -16,6 +16,8 @@ body{
 .full{
     height: 100vh;
     background: $background;
+    display: grid;
+    place-items: center;
 }
 
 #parallax{
